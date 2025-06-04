@@ -1,0 +1,1 @@
+this is the project that i completed for my Object Orientated Programming module. i collaborated with 4 others in this project. i personally created the checkout and shoppingbasket and admin pages and integrated them into the wider project.
